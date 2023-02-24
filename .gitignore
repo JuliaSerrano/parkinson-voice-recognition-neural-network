@@ -1,2 +1,4 @@
 *.zip
 /.ipynb_checkpoints
+*.wav
+data/audio_16bit/
